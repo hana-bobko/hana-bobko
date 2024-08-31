@@ -86,7 +86,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/hana-bobko/hana-bobko/output/snake.svg" alt="Snake animation" />
+<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 
 ###
 
