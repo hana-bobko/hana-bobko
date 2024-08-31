@@ -1,4 +1,4 @@
-<h1 align="left">E aí 👋 Tudo beleza?<br>Hey 👋 What's up?</h1>
+<h1 align="left">E aí 👋 Tudo beleza? <p>Hey What's up?</p><h1>
 
 ###
 
@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">Sobre mim</h2>
+<h2 align="left">Sobre mim | About me</h2>
 
 ###
 
@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">✨ Criadora de bugs desde 2020<br>📚 Atualmente aprendendo Swift<br>🎯 Metas: Especializar em desenvolvimento IOS<br>🎲 Fatos curiosos: Sou uma Entusiasta de tecnologia e amo fazer Reviews de Product Tech<br><br>✨ Creating bugs since 2020<br>📚 I'm currently learning Swift<br>🎯 Goals: Development IOS Especialit<br>🎲 Fun fact: I'm a Tech enthusiast and love make Tech Product reviews</p>
+<p align="left">✨ Criadora de bugs desde 2020 | Creating bugs since 2020<br>📚 Atualmente aprendendo Swift | I'm currently learning Swift<br>🎯 Metas: Especializar em desenvolvimento IOS | Goals: Development IOS Especialit<br>🎲 Fatos curiosos: Sou uma Entusiasta de tecnologia e amo fazer Reviews de Product Tech | Fun fact: I'm a Tech enthusiast and love make Tech Product reviews<br>
 
 ###
 
