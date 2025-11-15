@@ -2,7 +2,7 @@
   <img height="200" src="https://avatars.githubusercontent.com/u/137847937?v=4"  />
 </div>
 <h1 align="center">E aí 👋 Tudo beleza?</h1>
-<p align="center">Me chamo Hana e sou Desenvolvedora de Software, de Santa Catarina - Brazil | My name is Hana and I'm a Software Developer, from Santa Catarina - Brazil</p>
+<p align="center">Me chamo Hana e sou Desenvolvedora de Software, do Paraná - Brazil | My name is Hana and I'm a Software Developer, from Paraná - Brazil</p>
 
 <h2 align="left">Sobre mim | About me</h2>
 
